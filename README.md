@@ -18,6 +18,4 @@ If you find our method useful in your research, please consider citing:
 
 Fei Zhou, Rongguo Yao, Bozhi Liu, and Guoping Qiu. “Visual quality assessment for super-resolved images: Database and method”, to be published in IEEE Transactions on Image Processing. DOI: 10.1109/TIP.2019.2898638.
 
-Any comments, please email: flying.zhou@163.com 
-
-                            yaorongguo2017@email.szu.edu.cn
+Any comments, please email: flying.zhou@163.com, yaorongguo2017@email.szu.edu.cn
