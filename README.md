@@ -10,7 +10,7 @@ a. Please first compile the toolbox 'vlfeat' for matlab.
 
 b. Please modify the path in "ST_main.m" and "ST_main_for_dist.m". 
 
-c. Run "ST_main.m" and "ST_main_for_dist.m" befor "IQA_main.m".
+c. Run "ST_main.m" and "ST_main_for_dist.m" before "IQA_main.m".
 
 More details at: http://www.vista.ac.cn/super-resolution/
 
